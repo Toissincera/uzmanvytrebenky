@@ -27,7 +27,7 @@ function Offers({ isUKR }) {
               Lifetime program access.
             </span>
           </h2>
-          {!isUkr ? (
+          {!isUKR ? (
             <p className="lead">
               You will work with a teacher and complete 12 topics. The most
               important principle of our class will be indivisual appraoch. We
